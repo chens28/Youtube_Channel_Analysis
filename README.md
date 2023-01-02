@@ -7,3 +7,13 @@ To  better understand the growth of Ken Jee’s YouTube channel and community, w
 - Aggregated Metrics by Country and Viewership
 - Video Performance over Time
 - All Comments Final
+
+## Top countries
+
+![Top!](https://github.com/chens28/Youtube_Channel_Analysis/blob/main/top.png)
+
+![perCap!](https://github.com/chens28/Youtube_Channel_Analysis/blob/main/perCap.png)
+
+## Comment Word Cloud
+
+![Word!](https://github.com/chens28/Youtube_Channel_Analysis/blob/main/worldCloud.png)
