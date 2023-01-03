@@ -16,4 +16,4 @@ To  better understand the growth of Ken Jee’s YouTube channel and community, w
 
 ## Comment Word Cloud
 
-![Word!](https://github.com/chens28/Youtube_Channel_Analysis/blob/main/worldCloud.png)
+<img src="https://github.com/chens28/Youtube_Channel_Analysis/blob/main/worldCloud.png" width=85% height=85%>
